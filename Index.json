@@ -497,9 +497,19 @@
 ]
       
 
-      "id":47,
+      "id":58,
        "name": "Adipic acid ",
        "molecular formula": "C6H10O4",
        "colour": "white crystalline solid ",
        "meltingPoint_inDegreeCelsius": "152.1°C"
        "bolingPoint_inDegreeCelsius": "337.5°C"
+
+
+{        
+      "id":59,
+        "name": "Glycerol",
+        "molecular formula": "C3H8O3",
+        "colour": "Colorless",
+        "meltingPoint_inDegreeCelsius": "17.8°C (64.0°F)",
+        "bolingPoint_inDegreeCelsius":"290°C (554°F)"
+     }
