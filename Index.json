@@ -444,10 +444,19 @@
         "molecular formula": "CH3COOH",
         "colour": "red",
         "meltingPoint_inDegreeCelsius": "16.75°C",
-        "bolingPoint_inDegreeCelsius": "118 
+        "bolingPoint_inDegreeCelsius": "118 C"
+},
+{        
+      "id":52,
+        "name": "carbonyl dichloride",
+        "molecular formula": "COCl2",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": "-118°C",
+        "bolingPoint_inDegreeCelsius": "8.3 °C"
+
    },
    {        
-        "id":52,
+        "id":53,
         "name": "beta-mercaptoethanol",
         "molecular formula": "HSCH2CH2OH",
         "colour": "colorless",
@@ -455,7 +464,7 @@
         "bolingPoint_inDegreeCelsius": "157 C"
    },
    {        
-      "id":53,
+      "id":54,
         "name": "hydroxychloroquine sulphate",
         "molecular formula": "C18H26CIN30",
         "colour": "white",
@@ -463,7 +472,7 @@
         "bolingPoint_inDegreeCelsius": "87 C"
    },
    {        
-      "id":54,
+      "id":55,
         "name": "SUCROSE",
         "molecular formula": "C12H22O11",
         "colour": "white solid",
@@ -471,7 +480,7 @@
         "bolingPoint_inDegreeCelsius": "697.1±55.0 °C"
     },
     {
-        "id": 55,
+        "id": 56,
         "name": "Chloroform ",
         "molecular formula": "CHCl3",
         "colour": "colourless",
@@ -479,7 +488,7 @@
         "bolingPoint_inDegreeCelsius": "61.1"
     },
     {        
-      "id":56,
+      "id":57,
         "name": "Barium Phosphate ",
         "molecular formula": "Ba3(PO4)2",
         "colour": "White powder",
@@ -487,19 +496,19 @@
         "bolingPoint_inDegreeCelsius": "N/A"
      },
      {        
-      "id":57,
+      "id":58,
         "name": "Sodium acetate",
         "molecular formula": "CH 3 COONa",
         "colour": "White",
         "meltingPoint_inDegreeCelsius": "324°C (615.20°F)",
         "bolingPoint_inDegreeCelsius": "881.40°C (1,619°F)"
-     }
-]
-      
+     },
 
-      "id":47,
+   {
+      "id":59,
        "name": "Adipic acid ",
        "molecular formula": "C6H10O4",
        "colour": "white crystalline solid ",
        "meltingPoint_inDegreeCelsius": "152.1°C"
        "bolingPoint_inDegreeCelsius": "337.5°C"
+  }
