@@ -521,4 +521,13 @@
         "meltingPoint_inDegreeCelsius": "17.8°C (64.0°F)",
         "bolingPoint_inDegreeCelsius":"290°C (554°F)"
      }
+{        
+      "id":61,
+        "name": "Uric acid",
+        "molecular formula": "C5H3N4O3",
+        "colour": "Red-Orange-Brown",
+        "meltingPoint_inDegreeCelsius": "300°C",
+        "bolingPoint_inDegreeCelsius":"310°C"
+     },
+
 
